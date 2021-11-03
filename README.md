@@ -17,3 +17,5 @@ python pacman.py -l mediumCorners -p AStarCornersAgent -z 0.5</p>
 <p>run A-Star with goal of eating all dots:
 python pacman.py -l trickySearch -p AStarFoodSearchAgent</p>
 
+<p>This is a WIP and will be updated as the course continues</p>
+
